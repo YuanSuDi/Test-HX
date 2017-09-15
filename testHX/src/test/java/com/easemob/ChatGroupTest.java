@@ -50,7 +50,7 @@ public class ChatGroupTest {
 
     /**
      * 修改群组的信息
-     * groupId
+     * groupId  s
      * 
      */
     @Test
