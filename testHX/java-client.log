@@ -1,0 +1,17 @@
+2017-09-15 14:02:23,647 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:ext must be JSONObject
+2017-09-15 14:03:15,906 ERROR [main] c.e.server.example.comm.TokenUtil [TokenUtil.java : 50] Bad Request
+2017-09-15 14:04:05,839 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:ext must be JSONObject
+2017-09-15 14:06:10,521 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:ext must be JSONObject
+2017-09-15 14:07:08,670 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:ext must be JSONObject
+2017-09-15 14:07:58,280 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 14:10:32,476 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:Service resource not found
+2017-09-15 14:19:08,632 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:ext must be JSONObject
+2017-09-15 14:27:49,513 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:Application null Entity user requires that property named username be unique, value of xiaowang355 exists
+2017-09-15 15:07:55,392 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 15:08:30,258 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 15:09:47,152 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:do not find this group:11189173157890
+2017-09-15 15:10:32,561 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 15:27:32,862 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 15:27:44,561 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:users [aaa123456220, aaa123456487] are not members of this group!
+2017-09-15 15:30:00,605 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 15:30:08,883 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username null doesn't exist!
