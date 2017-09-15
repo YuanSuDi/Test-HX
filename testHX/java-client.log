@@ -15,3 +15,65 @@
 2017-09-15 15:27:44,561 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:users [aaa123456220, aaa123456487] are not members of this group!
 2017-09-15 15:30:00,605 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
 2017-09-15 15:30:08,883 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username null doesn't exist!
+2017-09-15 17:11:53,793 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:11:53,898 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:11:54,398 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:11:54,940 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:11:55,096 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:11:55,175 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:11:55,240 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:11:55,320 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 17:12:43,069 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:12:43,172 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:12:43,673 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:12:44,229 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:12:44,438 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:12:44,518 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:12:44,587 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:12:44,655 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 17:13:12,092 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:13:12,183 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:13:12,699 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:13:13,215 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:13:13,349 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:13:13,434 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:13:13,502 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:13:13,572 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 17:13:47,186 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:13:47,284 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:13:47,802 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:13:48,199 WARN [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 33] The api call is too frequent
+2017-09-15 17:13:48,200 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:429 error_msg:Too Many Requests error_desc:This request has reached api limit.
+2017-09-15 17:13:48,200 ERROR [main] com.easemob.ChatMessagesTest [ChatMessagesTest.java : 26] Failed to get expected response by calling GET chatmessages API, maybe there is no chatmessages history at 2017091515
+2017-09-15 17:13:48,269 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:13:48,391 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:13:48,461 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:13:48,539 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:13:48,608 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 17:14:12,190 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:14:12,302 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:14:12,804 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:14:13,529 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:14:13,676 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:14:13,758 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:14:13,840 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:14:13,910 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 17:14:54,671 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:14:54,765 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:14:55,181 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:14:55,570 WARN [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 33] The api call is too frequent
+2017-09-15 17:14:55,571 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:429 error_msg:Too Many Requests error_desc:This request has reached api limit.
+2017-09-15 17:14:55,571 ERROR [main] com.easemob.ChatMessagesTest [ChatMessagesTest.java : 26] Failed to get expected response by calling GET chatmessages API, maybe there is no chatmessages history at 2017091515
+2017-09-15 17:14:55,655 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:14:55,793 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:14:55,849 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:14:55,905 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:14:55,968 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
+2017-09-15 17:17:28,904 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:17:29,017 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:403 error_msg:Forbidden error_desc:new owner and old owner are the same
+2017-09-15 17:17:29,484 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11361107116036 does not exist!
+2017-09-15 17:17:30,172 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username stringa doesn't exist!
+2017-09-15 17:17:30,297 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:username qwqwqw doesn't exist!
+2017-09-15 17:17:30,368 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:17:30,435 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:404 error_msg:Not Found error_desc:grpID 11368499576837 does not exist!
+2017-09-15 17:17:30,492 ERROR [main] c.e.s.example.comm.ResponseHandler [ResponseHandler.java : 46] error_code:400 error_msg:Bad Request error_desc:this is an invalid request.
